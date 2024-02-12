@@ -1,3 +1,6 @@
+I forgot to do it in gherkin, working on it right now, should be done in a little bit.
+
+
 You will see a base project on the repository for Java. I had to clean it up since I think some sort of virus got into my pc and didn't want to take any chances.
 Therefore it's a little empty and raw. But you can still check it out if you want.
 
