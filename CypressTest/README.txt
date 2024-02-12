@@ -4,7 +4,7 @@ I forgot to do it in gherkin, working on it right now, should be done in a littl
 You will see a base project on the repository for Java. I had to clean it up since I think some sort of virus got into my pc and didn't want to take any chances.
 Therefore it's a little empty and raw. But you can still check it out if you want.
 
-First time using cypress. I'm more of a Selenium + Java user so don't look too much into it.
+First time using cypress and I haven't really gotten into JS for the past 3 years. I'm more of a Selenium + Java user so don't look too much into it.
 
 Was confused if what you wanted was full on testing or just specifically what was asked for. Did the second one.
 I also skipped checking all the information in every single screen as well as the last screen to be redirected to after each test case.
